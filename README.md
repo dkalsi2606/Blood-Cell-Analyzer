@@ -50,16 +50,11 @@ blood_anomaly/
 ├── blood_anomaly.ipynb             # Research / experimentation notebook
 ├── blood_cell_anomaly_detection.csv
 ├── cell_type_reference.csv
-│
-├── anomaly_cell_blast.png
-├── normal_cell_neutrophil.png
-│
-└── files/
-    ├── report_01_normal_male.png
-    ├── report_02_iron_deficiency_anemia.png
-    ├── report_03_bacterial_infection_sepsis.png
-    ├── report_04_aml_suspected.png
-    └── report_05_sickle_cell.png
+├── report_01_normal_male.png
+├── report_02_iron_deficiency_anemia.png
+├── report_03_bacterial_infection_sepsis.png
+├── report_04_aml_suspected.png
+└── report_05_sickle_cell.png
 ```
 
 ---
